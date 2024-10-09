@@ -1,0 +1,4 @@
+training num,model name,epoches,learning_rate,test interval,epoch 0 correct ,epoch 1 correct ,epoch 2 correct ,epoch 3 correct ,epoch 4 correct ,epoch 5 correct ,epoch 6 correct ,epoch 7 correct ,epoch 8 correct ,epoch 9 correct 
+0,collision-1.0e-2-180-90-30-2-tanh-softmax,10,0.01,1,89.0,91.0,90.0,89.0,90.0,91.0,92.0,89.0,91.0,92.0
+1,collision-1.0e-2-180-90-30-2-tanh-softmax,10,0.01,1,90.0,90.0,89.0,90.0,91.0,92.0,94.0,92.0,93.0,90.0
+2,collision-1.0e-2-180-90-30-2-tanh-softmax,10,0.01,1,89.0,89.0,89.0,90.0,91.0,90.0,90.0,92.0,93.0,90.0
